@@ -1,0 +1,42 @@
+# =========================
+# OS generated files
+# =========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Logs / temp files
+# =========================
+*.log
+*.tmp
+*.out
+*.pid
+*.swp
+*.swo
+*~
+
+# =========================
+# Backup / patch leftovers
+# =========================
+*.bak
+*.orig
+*.rej
+
+# =========================
+# Editor / IDE settings
+# =========================
+.idea/
+.vscode/
+
+# =========================
+# Local env / secrets
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Local environment tools
+# =========================
+.direnv/
